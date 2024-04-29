@@ -9,7 +9,7 @@ Once the models were trained, they were deployed on the training datasets to pre
 
 Get the code from the repository 
 
-git clone https://github.com/cmb1987/credit-card-fraud-detection.git
+git clone: https://github.com/mohitbt66/Credit-Card-Fraud-Detection-using-Machine-Learning
 
 Download the dataset and unzip it.
 
